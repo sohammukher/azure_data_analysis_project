@@ -1,0 +1,9 @@
+{
+	"name": "adf-soham-newproj",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "00580592-7d67-4630-a45d-028b3a519bdc",
+		"tenantId": "c149f562-2208-4e6b-9fbd-59fc0aca6fbe"
+	}
+}

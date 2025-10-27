@@ -1,0 +1,17 @@
+{
+	"name": "sql_ls",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"server": "soham-sql-server.database.windows.net",
+			"database": "azure_proj",
+			"encrypt": "mandatory",
+			"trustServerCertificate": false,
+			"authenticationType": "SQL",
+			"userName": "soham",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDVGNzVFODZFLUYwM0UtNDk1My04NTAxLUMwMTNBODI1QjM1QV9kMDk2OTFkNC02YzdhLTRkODEtYTViMS1iOTU4MDIzZjBmZWYiDQp9"
+		}
+	}
+}
